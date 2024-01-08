@@ -70,15 +70,22 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
   <img src="https://i.imgur.com/lUc0H3r.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/tTphq0c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
   <p>
-- Lets create an agent: Admin Panel > Agents > Add new agent 
+   -Admin Panel > Agents > Add new agent </p>
+   - Create two new agents </p>
+   <b>* Dont forget to create a password for the two agents* </b></p>
+  
 </p>
 <br />
 
 <p> Step 6: <b>Configure Users (customers)</b></p>
 <p>
-<img src="https://i.imgur.com/D38loiG.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/D38loiG.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/qE8XJwG.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p> - Click on Agent Panel > Users > Add New User </p>
+- Create two new users </p>
+- Always remember to click Register and create a password for both users </P
+- Click Create account and don't forget the passwords </p>
+
 
 <p> Step 7: <b>Configure SLA</b> </p>
 <p>
