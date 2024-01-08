@@ -95,9 +95,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p> - Click back over to Admin Panel > Manage > SLA </p>
 <p>Add 3 SLA's</p>
 <p> 
-1. Sev-A: grace period of 1 hour, 24/7 </p>
-2. Sev-B: grace period of 4 hour, 24/7 </p>
-3. Sev-C: grace period of 8 hour, business hours </p>
+i. Sev-A: grace period of 1 hour, 24/7 </p>
+ii. Sev-B: grace period of 4 hour, 24/7 </p>
+iii. Sev-C: grace period of 8 hour, business hours </p>
 <p> <b>* SLA is the turnaround time in which a ticket needs to be answered or resolved* </b></p>
 
 <p> Step 8: <b>Configure Help Topics </b> </p>
@@ -107,7 +107,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 - Still being in Admin panel > Manage > Help Topics 
 </p>
-- Add a new department ("System Administrators") 
+- Add a new department ("System Administrators") </p>
+i. Business Critical Outage </p>
+ii. Personal Comouter Issues </p>
+iii. Equipment Request </p>
+iv. Password Reset </p>
+
 </p>
 <br />
 
