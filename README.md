@@ -27,7 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/aeKPki7.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- Log into (http://localhost/osTicket/scp/login.php) with the admin username and password that was created in the previous installation of osTicket
+- <a href=http://localhost/osTicket/scp/login.php>Log into</a> with the admin username and password that was created in the previous installation of osTicket
 </p>
 - Click on the Admin panel > Agents > Roles
 </p>
