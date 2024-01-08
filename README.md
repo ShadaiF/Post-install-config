@@ -68,7 +68,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p> Step 5: <b>Configure Agents (workers) </b> </p>
 <p>
-  <img src="https://i.imgur.com/lUc0H3r.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/tTphq0c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+  <img src="https://i.imgur.com/lUc0H3r.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/tTphq0c.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
   <p>
    -Admin Panel > Agents > Add new agent </p>
    - Create two new agents </p>
@@ -79,7 +79,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p> Step 6: <b>Configure Users (customers)</b></p>
 <p>
-<img src="https://i.imgur.com/D38loiG.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/qE8XJwG.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/D38loiG.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/qE8XJwG.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p> - Click on Agent Panel > Users > Add New User </p>
 - Create two new users </p>
