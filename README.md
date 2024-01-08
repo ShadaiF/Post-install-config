@@ -40,7 +40,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 - From Admin panel > Agents > Departments 
 </p>
-- Add a new department ("System Adminitrator") 
+- Add a new department ("System Administrators") 
 </p>
 <br />
 
@@ -52,3 +52,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Add new teams > "Level I Support" & "Level II support "
 </p>
 <br />
+
+
+<p>
+  <img src="https://i.imgur.com/HZ7Ta1v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+  - Allow anyone to create tickets: Admin Panel > Settings > Users 
+</p>
+-Registration Required: Requires registration and login to create tickets 
+</p>
