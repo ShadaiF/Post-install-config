@@ -23,10 +23,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/aeKPki7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aeKPki7.png" height="80 " width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- Log into http://localhost/osTicket/scp/login.php with the admin username and password that was created in the previous installation of osTicket
+- Log into (http://localhost/osTicket/scp/login.php) with the admin username and password that was created in the previous installation of osTicket
 </p>
 - Click on the Admin panel > Agents > Roles
 </p>
@@ -41,12 +41,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 - From Admin panel > Agents > Departments 
 </p>
 - Add a new department ("System Adminitrator") 
+</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/LA4om7x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+  <p>
+- Still in Admin Panel > Agents > Teams 
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- Add new teams > "Level I Support" & "Level II support "
 </p>
 <br />
