@@ -62,3 +62,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 -Registration Required: Requires registration and login to create tickets 
 </p>
+
+<p>
+  <img src="https://i.imgur.com/lUc0H3r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/tTphq0c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+  <p>
+- Lets create an agent: Admin Panel > Agents > Add new  
+</p>
+- Add new teams > "Level I Support" & "Level II support "
+</p>
+<br />
+
+
