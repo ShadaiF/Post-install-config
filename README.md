@@ -22,7 +22,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<p> Step 1: </p>
+<p> Step 1: <b>Configure Roles </b> </p>
 <p>
 <img src="https://i.imgur.com/aeKPki7.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
@@ -35,7 +35,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br />
 
-<p> Step 2: </p>
+<p> Step 2: <b>Configure Departments</b> </p>
 <p>
 <img src="https://i.imgur.com/xPQaVio.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
 </p>
@@ -46,7 +46,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br />
 
-<p> Step 3: </p>
+<p> Step 3: <b>Configure Teams </b> </p>
 <p>
   <img src="https://i.imgur.com/LA4om7x.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
   <p>
@@ -56,18 +56,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br />
 
-<p> Step 4: </p>
+<p> Step 4: <b>Allow anyone to create tickets</b> </p>
 <p>
   <img src="https://i.imgur.com/HZ7Ta1v.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
 </p>
-<p>
-   Allow anyone to create tickets </p>
-  - Admin Panel > Settings > Users 
+<p> - Admin Panel > Settings > Users  </p>
+
 </p>
 -Registration Required: Requires registration and login to create tickets 
 </p>
 
-<p> Step 5: </p>
+<p> Step 5: <b>Configure Agents (workers) </b> </p>
 <p>
   <img src="https://i.imgur.com/lUc0H3r.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/tTphq0c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
   <p>
@@ -75,13 +74,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br />
 
-<p> Step 6:</p>
+<p> Step 6: <b>Configure Users (customers)</b></p>
 <p>
 <img src="https://i.imgur.com/D38loiG.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <p> - Click on Agent Panel > Users > Add New User </p>
 
-<p> Step 7: </p>
+<p> Step 7: <b>Configure SLA</b> </p>
 <p>
 <img src="https://i.imgur.com/4JyVMBF.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
 </p>
@@ -93,5 +92,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 3. Sev-C: grace period of 8 hour, business hours </p>
 <p> <b>* SLA is the turnaround time in which a ticket needs to be answered or resolved* </b></p>
 
-
+<p> Step 8: <b>Configure Help Topics </b> </p>
+<p>
+<img src="https://i.imgur.com/48W3f19.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
+</p>
+<p>
+- Still being in Admin panel > Manage > Help Topics 
+</p>
+- Add a new department ("System Administrators") 
+</p>
+<br />
 
