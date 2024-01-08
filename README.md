@@ -22,8 +22,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
+<p> Step 1: </p>
 <p>
-<img src="https://i.imgur.com/aeKPki7.png" height="80 " width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aeKPki7.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 - Log into (http://localhost/osTicket/scp/login.php) with the admin username and password that was created in the previous installation of osTicket
@@ -34,8 +35,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br />
 
+<p> Step 2: </p>
 <p>
-<img src="https://i.imgur.com/xPQaVio.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/xPQaVio.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 - From Admin panel > Agents > Departments 
@@ -44,32 +46,52 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br />
 
+<p> Step 3: </p>
 <p>
-  <img src="https://i.imgur.com/LA4om7x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+  <img src="https://i.imgur.com/LA4om7x.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
   <p>
 - Still in Admin Panel > Agents > Teams 
 </p>
-- Add new teams > "Level I Support" & "Level II support "
+- Add new team > "Level I Support" & "Level II support "
 </p>
 <br />
 
-
+<p> Step 4: </p>
 <p>
-  <img src="https://i.imgur.com/HZ7Ta1v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+  <img src="https://i.imgur.com/HZ7Ta1v.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
-  - Allow anyone to create tickets: Admin Panel > Settings > Users 
+   Allow anyone to create tickets </p>
+  - Admin Panel > Settings > Users 
 </p>
 -Registration Required: Requires registration and login to create tickets 
 </p>
 
+<p> Step 5: </p>
 <p>
-  <img src="https://i.imgur.com/lUc0H3r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/tTphq0c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+  <img src="https://i.imgur.com/lUc0H3r.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/tTphq0c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
   <p>
-- Lets create an agent: Admin Panel > Agents > Add new  
-</p>
-- Add new teams > "Level I Support" & "Level II support "
+- Lets create an agent: Admin Panel > Agents > Add new agent 
 </p>
 <br />
+
+<p> Step 6:</p>
+<p>
+<img src="https://i.imgur.com/D38loiG.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
+<p> - Click on Agent Panel > Users > Add New User </p>
+
+<p> Step 7: </p>
+<p>
+<img src="https://i.imgur.com/4JyVMBF.png" height="70%" width="70%" alt="Disk Sanitization Steps"/> 
+</p>
+<p> - Click back over to Admin Panel > Manage > SLA </p>
+<p>Add 3 SLA's</p>
+<p> 
+1. Sev-A: grace period of 1 hour, 24/7 </p>
+2. Sev-B: grace period of 4 hour, 24/7 </p>
+3. Sev-C: grace period of 8 hour, business hours </p>
+<p> <b>* SLA is the turnaround time in which a ticket needs to be answered or resolved* </b></p>
+
 
 
